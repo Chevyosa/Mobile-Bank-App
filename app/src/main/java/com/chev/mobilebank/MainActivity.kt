@@ -59,13 +59,14 @@ fun Homescreen(){
 
         Column(modifier = Modifier
             .fillMaxSize()
-            .padding(padding)) {
-
-        }
-        WalletSection()
+            .padding(padding)
+        ) {
+            WalletSection()
             CardSection()
-        Spacer(modifier = Modifier.height(16.dp))
-        //        FinanceSection()
+            Spacer(modifier = Modifier.height(16.dp))
+            FinanceSection()
             //        CurrenciesSection()
+        }
+
     }
 }
