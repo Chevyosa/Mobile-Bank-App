@@ -15,3 +15,8 @@ val PurpleEnd = Color(0xFF640D6B)
 
 val BlueStart = Color( 0xFF2A629A)
 val BlueEnd = Color(0xFF003285)
+
+val OrangeStart = Color(0xFFFF8343)
+val OrangeEnd = Color(0xFFFFAD60)
+
+val GreenStart = Color(0xFF387F39)
